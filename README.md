@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm aka - @slytechiefrommagentashore</h1>
-<h3 align="center">Student at IIITV</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forklao&label=Profile%20views&color=0e75b6&style=flat" alt="forklao" /> </p>
 
@@ -9,7 +8,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **slytechiefrommagentashore@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
